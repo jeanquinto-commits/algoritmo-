@@ -1,4 +1,1 @@
-primera entrega de algoritmo y programación 
-#rffrffs 
-"gr"
-c
+# primera entrega de algoritmo y programación 
